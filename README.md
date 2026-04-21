@@ -6,20 +6,15 @@ Autonomous vehicles (AVs) are expected to significantly improve road safety and 
 ### Crossroad Scenarios
 Case 1 | Case 2
 :-------------------------:|:-------------------------:
-https://github.com/user-attachments/assets/2486e794-155e-4635-b172-3b68f14cd47d | https://github.com/user-attachments/assets/df1297e6-f009-4b35-b3c9-bd8332923e2d
+https://github.com/user-attachments/assets/91768ac0-e4c1-4028-8a40-0ea7718865fe | https://github.com/user-attachments/assets/3da54eae-5448-40b4-92d8-2c11c2885278
 
 ### Roundabout scenario
 Case 1 | Case 2
 :-------------------------:|:-------------------------:
-https://github.com/user-attachments/assets/41d15271-37af-4199-978e-c6ba7c297c03 | https://github.com/user-attachments/assets/d42472bb-ac31-4b37-a4f7-d550dd79d02e
+https://github.com/user-attachments/assets/3cc06934-ca2e-4211-ab4f-396e5152a56b | https://github.com/user-attachments/assets/24f7c626-46d7-4593-972d-423cd79c839d
 
 ### Mixed scenario
 Case 1 | Case 2
 :-------------------------:|:-------------------------:
-https://github.com/user-attachments/assets/1ff8b99f-1ba7-4778-95f9-e3c4bc957888 | https://github.com/user-attachments/assets/dbc31cbb-9ef5-4fe1-931d-a05f1f1f357b
-
-
-
-
-
+https://github.com/user-attachments/assets/51ad622d-ca4c-4747-a538-347df4b299e6 | https://github.com/user-attachments/assets/f102d87f-47d9-4008-b265-ad2352b20cee
 
